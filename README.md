@@ -1,4 +1,4 @@
-# Xpoze v1.0.1
+# Xpoze v1.0.2
 
 [![npm version](https://badge.fury.io/js/xpoze.svg)](https://www.npmjs.com/package/xpoze)
 
