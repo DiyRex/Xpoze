@@ -1,0 +1,5 @@
+{
+  "auth": "default_auth_token",
+  "tgAuth": "default_telegram_auth_token",
+  "tgChat": "default_telegram_chat_id"
+}
